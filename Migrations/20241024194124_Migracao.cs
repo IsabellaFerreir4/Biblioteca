@@ -152,5 +152,5 @@ namespace Exemplo6.Migrations
             migrationBuilder.DropTable(
                 name: "Autor");
         }
-    }
+    } 
 }
